@@ -1,1 +1,1 @@
-<?php echo 'this is test workforce latest 5'; ?>
+<?php echo 'this is test workforce latest 6'; ?>
